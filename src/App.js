@@ -145,6 +145,8 @@ function App() {
          <Route path="/contact" element={<Contact/>}></Route>
          <Route path="/movie" element={<MovieList/>}></Route>
          <Route path="/login" element={<Login/>}></Route>
+         <Route path="/login" element={<Login/>}></Route>
+
      
 
 
